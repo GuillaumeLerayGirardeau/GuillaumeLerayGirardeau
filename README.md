@@ -2,7 +2,7 @@
 <h3 align="center">Web developer student at Holberton School</h3>
 
 - 🔎 Looking for a first job or an intership (stage ou alternance)
-- 🎬 I also studied 3D animation and compositing / VFX for three years, and master technical softwares like Maya, Blender, Nuke or Davinci Resolve
+- 🎬 I also studied 3D animation and compositing / VFX for three years, and master technical softwares like Maya, Blender, Nuke and Davinci Resolve
 - 🌟 Passionate about cinema, video games and web-development
 - 💻 Currently learning Python and C++
 - 📫 You can reach me at : **guiraydeau@gmail.com**

@@ -2,11 +2,14 @@
 
 <hr>
 
-- 🔎 Looking for a first job or an intership (stage ou alternance)
-- 🎬 I also studied 3D animation and compositing / VFX for three years, and master technical softwares like Maya, Blender, Nuke and Davinci Resolve
-- 🌟 Passionate about cinema, video games and web-development
-- 💻 Currently learning Python and C++
-- 📫 You can reach me at : **guiraydeau@gmail.com**
+<h3>About me :</h3>
+<ul>
+  <li>🔎 Looking for a first job or an intership (stage ou alternance)</li>
+  <li>🎬 I also studied 3D animation and compositing / VFX for three years, and master technical softwares like Maya, Blender, Nuke and Davinci Resolve</li>
+  <li>🌟 Passionate about cinema, video games and web-development</li>
+  <li>💻 Currently learning Python and C++</li>
+  <li>📫 You can reach me at : **guiraydeau@gmail.com**</li>
+</ul>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">

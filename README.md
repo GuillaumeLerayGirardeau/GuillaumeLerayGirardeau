@@ -23,7 +23,7 @@
 
 <h4>Languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python,lua,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,python,lua,js,html,css)](https://skillicons.dev)
 
 <h4>Tools</h4>
 

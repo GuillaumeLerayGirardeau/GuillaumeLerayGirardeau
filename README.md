@@ -31,7 +31,7 @@
 
 <h4>Framework / Databases </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,express,mysql,mongodb)](https://skillicons.dev)
 
 <h4>Graphic design and 3D</h4>
 

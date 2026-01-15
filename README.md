@@ -37,6 +37,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=blender,unreal,unity,ae,pr,ps)](https://skillicons.dev)
 
-<hr>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaumeleraygirardeau&show_icons=true&locale=en&layout=compact" alt="guillaumeleraygirardeau" /></p>

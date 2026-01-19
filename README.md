@@ -27,7 +27,7 @@
 
 <h4>Tools</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,nodejs,sqlite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker,nodejs,sqlite,vscode)](https://skillicons.dev)
 
 <h4>Framework / Databases </h4>
 

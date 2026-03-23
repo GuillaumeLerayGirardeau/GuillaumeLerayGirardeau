@@ -7,7 +7,7 @@
   <li>🔎 Looking for a first job or an intership (stage ou alternance)</li>
   <li>🎬 I also studied 3D animation and compositing / VFX for three years, and master technical softwares like Maya, Blender, Nuke and Davinci Resolve</li>
   <li>🌟 Passionate about cinema, video games and web-development</li>
-  <li>💻 Currently learning Node.JS, C++ and Unreal Engine</li>
+  <li>💻 Currently learning C++ and Unreal Engine</li>
   <li>📫 You can reach me at : <b>guiraydeau@gmail.com</b></li>
 </ul>
 
@@ -27,7 +27,7 @@
 
 <h4>Tools</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker,nodejs,sqlite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nodejs,react)](https://skillicons.dev)
 
 <h4>Framework / Databases </h4>
 
